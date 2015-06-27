@@ -7,6 +7,8 @@ Cap. 6 Hitting a movieng target
 Effective projects control changes; ineffective projects allow changes to control them. 
 Keys to successful change control include establishing a change board, limiting major changes to predefined points in the project, and placing major work products under change control.
 
+If the decision-making authority is a group, each person in the group should represent a different interest-—management, marketing, development, quality assurance, and so on. Sometimes this group is the change control board
+
 3
 CHANGE CONTROL PROCEDURE
 1. The initial development work for a work product (such as the project requirements) is performed without change control coming into play. During this period, changes can be made freely to the work product.
@@ -56,3 +58,14 @@ WHICH WORK PRODUCTS TO PLACE UNDER CHANGE CONTROL
 
 11
 COMMITTING TO CHANGE CONTROL "Consensuar" el control de cambios¿?
+
+
+12
+
+podriamos poner el survival check
+
+
+
+
+
+
