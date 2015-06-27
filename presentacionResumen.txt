@@ -8,3 +8,51 @@ Effective projects control changes; ineffective projects allow changes to contro
 Keys to successful change control include establishing a change board, limiting major changes to predefined points in the project, and placing major work products under change control.
 
 3
+CHANGE CONTROL PROCEDURE
+1. The initial development work for a work product (such as the project requirements) is performed without change control coming into play. During this period, changes can be made freely to the work product.
+2. The work product is subjected to a technical review, which determines whether initial development work on it can be declared complete.
+3. When initial development is complete, the work product is submitted to a "change board." The change board typically consists of representatives from each of the project's major concerned parties, for example, project management, marketing, development, quality assurance, documentation, and user support. (This board also goes by the name of "War Council," "Change Czar,"
+and similar names, depending on whether the project team fancies itself an executive committee, military junta, or Russian nobility.) On small projects, the change board might consist of only one, two, or three members. On the largest projects involving multiple companies, it can swell to 30 or more. Its most important objective is to serve as a central clearinghouse for changes to
+ensure that all important viewpoints are considered. 
+When a work product is submitted to the change board, it is baselined. At this point, any further changes to the work product
+are subject to a more systematic change process than was used during Step 1.
+4. The work product is placed under "revision control." Revision control refers to a software revision control program (also known
+as "version control" or "source code control") that is capable of archiving multiple versions of anything stored electronically.
+Although most commonly used for source code, most revision control systems will archive anything that can be stored in electronic
+form—documents, project plans, spreadsheets, design diagrams, source code, test cases, and so on.
+5. Further changes to the work product are treated systematically:
+a. Changes are proposed via Change Proposals. A Change Proposal describes the work product in question, the proposed change, and the impact of the change (both cost and benefit) from the point of view of the party proposing the change. Creating a Change Proposal is a good idea on even the smallest projects because it provides a record of the project's decisions that is far more reliable than people's memories.
+b. The change board identifies parties that might be affected by the change and distributes the Change Proposal for their review.
+c. The concerned parties each assess the costs and benefits of the proposed change from their individual viewpoints.
+d. The change board members combine their assessments and prioritize the Change Proposal—either they accept it, reject it, or defer it to a later time.
+e. The change board notifies all concerned parties about how the Change Proposal was resolved.
+
+4
+CHANGE CONTROL BENEFITS
+protects the .project from unnecessary changes by ensuring that Change Proposals are considered systematically.
+The addition of unnecessary features is traditionally one of the most serious software development risks because of the related increases in software complexity, destabilizing effect on design and code, and increased cost and schedule associated with expanding the product concept.
+Change control improves the quality of decisions made
+
+5
+
+Change control combats "mushy milestones."
+
+6
+
+BENEFITS OF AUTOMATED REVISION CONTROL
+
+7
+BENEFITS OF AUTOMATED REVISION CONTROL
+
+
+8
+How TO HANDLE SMALL CHANGES
+
+9
+How TO HANDLE POLITICAL ISSUES
+
+10
+WHICH WORK PRODUCTS TO PLACE UNDER CHANGE CONTROL
+
+11
+COMMITTING TO CHANGE CONTROL "Consensuar" el control de cambios¿?
